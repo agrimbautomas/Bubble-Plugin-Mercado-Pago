@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "payment"
+    },
+    "demo_page": "https://bleap-demo-plugins.bubbleapps.io/version-test/mercadopago",
+    "description": "Integrate the MercadoPago plugin and start charging from your website.\n\nActions included:\n- Create Payment Preference to collect (returns URL to collect).\n- Bring payment preference.\n- Search payment preference\n\n\n\n# Create your Access Token Mercadopago\n\nEnter this link to generate it: https://www.mercadopago.com.ar/developers/panel/credentials\n\nConfigure it from \"Plugins\", where it says \"Authorization\" write it with this format.\n\nBearer [access-token]\nEx, \"Bearer TEST-XXXXX-XXXXX-XXXXXXXXXXX-XXXXXX\"\n\n\n#### 3. Create the URL to charge from the worflow in \"Add and action\"> Plugins> Mercadopago - Create payment preferences.\n\nUse the \"init_url\" variable that it returns.\n\n#######################################\n\n🚀 Demo:\nhttps://bleap-demo-plugins.bubbleapps.io/version-test/mercadopago\n\n\n🧩 Editor:\nhttps://bubble.io/page?type=page&name=mercadopago&id=bleap-demo-plugins&tab=tabs-2",
+    "image": "//s3.amazonaws.com/appforest_uf/f1633551227269x926401947233145300/entity576_square_Cb0F10X.png",
+    "license": "commercial",
+    "link": "https://www.mercadopago.com.ar/developers/en/reference",
+    "name": "Mercado Pago",
+    "plugin_instructions": "Integrate the MercadoPago plugin and start charging from your website.\n\nActions included:\n- Create Payment Preference to collect (returns URL to collect).\n- Bring payment preference.\n- Search payment preference\n\n#### 1. Install the plugin\n\n#### 2. Configure it\n\n# Create your Access Token Mercadopago\n\nEnter this link to generate it: https://www.mercadopago.com.ar/developers/panel/credentials\n\nConfigure it from \"Plugins\", where it says \"Authorization\" write it with this format.\n\nBearer [access-token]\nEx, \"Bearer TEST-XXXXX-XXXXX-XXXXXXXXXXX-XXXXXX\"\n\n\n#### 3. Create the URL to charge from the worflow in \"Add and action\"> Plugins> Mercadopago - Create payment preferences.\n\nUse the \"init_url\" variable that it returns.\n\n#######################################\n\n🧩 See how to do it here:\nhttps://bubble.io/page?type=page&name=mercadopago&id=bleap-demo-plugins&tab=tabs-2"
+}
